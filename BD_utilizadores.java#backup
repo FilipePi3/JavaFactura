@@ -1,0 +1,17 @@
+
+/**
+ * Escreva a descrição da classe aqui.
+ * 
+ * @author (seu nome) 
+ * @version (número de versão ou data)
+ */
+import java.util.*;
+public class BD_utilizadores
+{
+    private ArrayList<UtilizadorColetivo> UC;
+    private ArrayList<UtilizadorIndividual> UI;
+    private ArrayList<Factura> fac;
+    private int admin;
+    
+    
+}

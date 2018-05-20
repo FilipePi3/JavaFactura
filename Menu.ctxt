@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=UI\ id\ pass
+comment1.target=boolean\ existe_utilizadorIndividual(java.util.ArrayList,\ int,\ java.lang.String)
+comment2.params=UC\ id\ pass
+comment2.target=boolean\ existe_utilizadorColetivo(java.util.ArrayList,\ int,\ java.lang.String)
+comment3.params=admin\ id\ pass
+comment3.target=boolean\ existe_admin(int,\ int,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ main()
+numComments=5
